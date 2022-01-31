@@ -1,5 +1,6 @@
 [core]
 	editor = \"C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = false
 [user]
 	email = katarina.vp17@gmail.com
 	name = Katarina
